@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  raymondb-portfolio
 
 # Build settings
-remote_theme: andrewbanchich/forty-jekyll-theme
+remote_theme:  wowthemesnet/mediumish-theme-jekyll 
 plugins:
   - jekyll-feed
 
